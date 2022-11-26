@@ -27,3 +27,4 @@ To run this project, install it locally
 7. Lists and Functions
 8. Loops
 9. Project: Exam Statistics
+10. Advanced Topics in Python
